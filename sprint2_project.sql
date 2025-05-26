@@ -7,7 +7,7 @@ select
     order_created_date,
     order_completion_date,
     order_status,
-    craftsman_id,
+    craftsman_id, --  skdnakldnalsndlksan
     craftsman_name,
     craftsman_address,
     craftsman_birthday,
